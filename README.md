@@ -1,7 +1,7 @@
 # Notice
-This is my fork of [https://github.com/cad/ovpm](OVPM v0.2.7) for [https://targetpractice.network](TargetPractice).
-I'll be adding features that suit my use case, and it may become backwards incompatible with the original unless my changes are found useful by cad and accepted upstream.
-Since the original is GPLv3, I'll be publishing all my changes to the code.
+This is our fork of [OVPM v0.2.7](https://github.com/cad/ovpm) for [TargetPractice](https://targetpractice.network).
+We'll be adding features that suit our use case, and it may become backwards incompatible with the original unless our changes are found useful by cad and accepted upstream.
+Since the original is GPLv3, we'll be publishing all changes to the code.
 
 # OVPM - OpenVPN Management Server
 
